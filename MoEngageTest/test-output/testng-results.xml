@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Entered User Name]]>
+    </line>
+    <line>
+      <![CDATA[Entered Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on login button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create campaign]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on :Push Campaign]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on general campaign]]>
+    </line>
+    <line>
+      <![CDATA[Name Entered]]>
+    </line>
+    <line>
+      <![CDATA[Already Selcted]]>
+    </line>
+    <line>
+      <![CDATA[Selected :Customers that satisfy the filters]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling ]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling ]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling ]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="257446" started-at="2018-11-08T17:56:02Z" finished-at="2018-11-08T18:00:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="257446" started-at="2018-11-08T17:56:02Z" finished-at="2018-11-08T18:00:19Z">
+      <class name="assignmentDemo.MoEngage.Scenario1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:assignmentDemo.MoEngage.Scenario1@3bb9a3ff]" name="launchDriver" is-config="true" duration-ms="7830" started-at="2018-11-08T17:55:54Z" finished-at="2018-11-08T17:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="loadTestData()[pri:0, instance:assignmentDemo.MoEngage.Scenario1@3bb9a3ff]" name="loadTestData" is-config="true" duration-ms="1" started-at="2018-11-08T17:56:02Z" finished-at="2018-11-08T17:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTestData -->
+        <test-method status="PASS" signature="moEngageTest()[pri:0, instance:assignmentDemo.MoEngage.Scenario1@3bb9a3ff]" name="moEngageTest" duration-ms="257386" started-at="2018-11-08T17:56:02Z" finished-at="2018-11-08T18:00:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Entered User Name]]>
+            </line>
+            <line>
+              <![CDATA[Entered Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on login button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create campaign]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on :Push Campaign]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on general campaign]]>
+            </line>
+            <line>
+              <![CDATA[Name Entered]]>
+            </line>
+            <line>
+              <![CDATA[Already Selcted]]>
+            </line>
+            <line>
+              <![CDATA[Selected :Customers that satisfy the filters]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling ]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling ]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling ]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- moEngageTest -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:assignmentDemo.MoEngage.Scenario1@3bb9a3ff]" name="quitDriver" is-config="true" duration-ms="1213" started-at="2018-11-08T18:00:20Z" finished-at="2018-11-08T18:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- assignmentDemo.MoEngage.Scenario1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
